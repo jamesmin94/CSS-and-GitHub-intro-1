@@ -20,7 +20,7 @@ article {
 /* --- ADD YOUR STYLES BELOW --- */
 
 header, footer {
-    background: #FBD5F7; /* must change */
+    background: #fbd5f7; /* must change */
 }
 figure {
     background: #f9dede; /* must change */
@@ -31,11 +31,11 @@ a:link {
   color: #003061;
 }
 a:visited {
-  color: #CC0000;
+  color: #990000;
 }
 a:focus {
-  color: #42000D;
-  outline-color: #42000D;
+  color: #42000d;
+  outline-color: #42000d;
   text-decoration: none;
 }
 a:hover {
@@ -43,5 +43,5 @@ a:hover {
   text-decoration: none;
 }
 a:active {
-  color: #5E00BD;
+  color: #5e00bd;
 }
