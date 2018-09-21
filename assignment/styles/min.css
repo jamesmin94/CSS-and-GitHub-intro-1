@@ -4,8 +4,8 @@
     */
 
 body, aside {
-    background: #fffdfd; /* must change */
-    color: #000; /* may be #000 or #fff */
+    background: #112f41; /* must change */
+    color: #fff; /* may be #000 or #fff */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
 
@@ -14,34 +14,34 @@ article {
     padding: 20px; /* keep */
     margin: auto; /* keep */
     border: 1px solid;
-    background: #fff1f1;
+    background: #065a5b;
 }
 
 /* --- ADD YOUR STYLES BELOW --- */
 
 header, footer {
-    background: #fbd5f7; /* must change */
+    background: #84061b; /* must change */
 }
 figure {
-    background: #f9dede; /* must change */
+    background: #841d0b; /* must change */
 }
 /* --- add your PSEUDO CLASSES below this line --- */
 
 a:link {
-  color: #003061;
+  color: #baef57;
 }
 a:visited {
-  color: #7a0000;
+  color: #f7e0ff;
 }
 a:focus {
-  color: #42000d;
-  outline-color: #42000d;
+  color: #ffdbb8;
+  outline-color: #ffdbb8;
   text-decoration: none;
 }
 a:hover {
-  color: #1e432d;
+  color: #cee9d9;
   text-decoration: none;
 }
 a:active {
-  color: #5e00bd;
+  color: #eedbff;
 }
